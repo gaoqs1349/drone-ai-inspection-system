@@ -112,8 +112,9 @@ Airport management
 
 ### Contact Us
 
+##### Wechat:
 For business cooperation or commercial code, scan to connect on WeChat:
 
 ![](images/wechat.jpg)
 
-Eamil: xingyue131@2925.com
+##### Email: xingyue131@2925.com
