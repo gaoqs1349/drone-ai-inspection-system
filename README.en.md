@@ -18,6 +18,7 @@ Through real-time monitoring and intelligent scheduling, low-altitude safety sta
 
 DeepSeek on-prem models can be integrated. The AI inspection system automatically detects unauthorized flights and intrusions into no-fly zones, issuing instant alerts to keep flights safe.
 
+![Drone parameter tuning](images/无人机参数调试.png "无人机参数调试")
 
 Use Cases
 -----------------------------------
@@ -39,7 +40,7 @@ Use Cases
 
 1. Automated inspection: No pilot needed. With one click, set routes for PV plant or grid inspections; drones execute on schedule, on standby 24/7.  
         
-2. AI detection: More accurate than the human eye. Automatically identifies river pollution, forest fire points, construction safety violations, and more, then alerts immediately to close the loop.
+2. AI detection: More accurate than the human eye. Automatically identifies river pollution, forest fire points, construction safety violations, and more, then alerts immediately to close the loop,supports human-vehicle tracking and recognition, long-distance zoom processing, etc.
         
 #### Four Key Values
 
