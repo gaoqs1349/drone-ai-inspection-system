@@ -18,7 +18,7 @@ Through real-time monitoring and intelligent scheduling, low-altitude safety sta
 
 DeepSeek on-prem models can be integrated. The AI inspection system automatically detects unauthorized flights and intrusions into no-fly zones, issuing instant alerts to keep flights safe.
 
-![Drone parameter tuning](images/无人机参数调试.png "无人机参数调试")
+![Drone parameter tuning](images/home.png "无人机参数调试")
 
 Use Cases
 -----------------------------------
@@ -60,6 +60,13 @@ In cities, it helps drones avoid air traffic, capture traffic conditions, and as
 
 - Intelligent road inspection with the drone inspection system: [无人机巡检系统之智能道路巡检](https://blog.csdn.net/xiaoyuner1349/article/details/156274306?spm=1001.2014.3001.5501) 
 
+System Function List: 
+
+[Drone Flight Control Platform Function List.pdf](1、无人机飞控平台功能清单.pdf) 
+
+[Video AI Algorithm Platform Function List.pdf](2、视频AI算法平台功能清单.pdf) 
+
+[Algorithm Model Gift list.pdf](3、算法模型赠送清单.pdf)
 
 Technical Architecture
 -----------------------------------
