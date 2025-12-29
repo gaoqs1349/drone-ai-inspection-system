@@ -112,6 +112,6 @@
 
 ### 联系我们
 
-需要咨询业务合作或商业版代码，可扫码联系：VX:xiaoyuner1349 ☺
+需要咨询业务合作或商业版代码，可扫码联系：VX：xiaoyuner1349
 
 ![](images/wechat.jpg)
