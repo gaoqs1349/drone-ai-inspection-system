@@ -1,124 +1,129 @@
-中文 | [English](./README.en.md)
+English | [中文](./README.zh.md)
 
-无人机AI智能巡检系统
+UAV AI Intelligent Inspection System
 ===============
 
-当前最新版本： 1.3.31（发布日期：2025-12-01） 
+Current version: 1.3.31 (Release date: 2025-12-01)
 
 
-项目介绍
+Project Overview
 -----------------------------------
 
-<h3 align="center">无人机AI智能巡检系统</h3>
+<h3 align="center">UAV AI Intelligent Inspection System</h3>
 
 
-无人机AI巡检系统，包含3套软件系统：1、巡检系统（支持小程序端）。2、AI算法训练平台。3、飞行控制中台系统。
+The UAV AI inspection suite includes three systems: (1) inspection (with mini-program support), (2) AI algorithm training platform, and (3) flight-control middleware.
 
-通过实时监控与智能调度，让低空安全管理稳如磐石。米级精准定位，让无人机飞行轨迹一目了然，电量、速度等状态也尽在实时掌控之中。适配大疆 、道通、黑鲨等主流机型。
+Through real-time monitoring and intelligent scheduling, low-altitude safety stays rock solid. Meter-level precise positioning makes every flight path visible, with battery, speed, and other states under live control. Compatible with major models from DJI, Autel, and Black Shark.
 
-支持接入DeepSeek本地化模型，其AI巡检系统更是亮点十足，能自动识别违规飞行，闯入禁飞区立即预警，为安全飞行保驾护航。
+DeepSeek on-prem models can be integrated. The AI inspection system automatically detects unauthorized flights and intrusions into no-fly zones, issuing instant alerts to keep flights safe.
 
-![无人机参数调试](images/home.png "无人机参数调试")
+![UAV parameter tuning](images/home.png "无人机参数调试")
 
-适用场景
+Use Cases
 -----------------------------------
         
-#### 一个平台
+#### One Platform
 
-1、规划：在地图上轻松划定电力线路、高速公路的巡检范围。
-2、调度：统一管理上百条自动任务，能源管线巡查从此无人操心。
-3、管理：所有告警和飞行数据集中呈现，自动生成报告。
+1. Planning: Easily mark power lines and highways for inspection on the map.  
+2. Dispatch: Centrally manage hundreds of automated tasks—pipeline patrols with zero manual effort.  
+3. Management: All alerts and flight data are centralized with auto-generated reports.
         
-#### 常用功能
+#### Common Capabilities
 
-1、环保：高效河道排污口排查，自动监控。
-2、安防：日常消防通道占用检测，消除隐患。
-3、能源：定期光伏板热斑检测，保障收益。
-4、应急：快速执行洪涝灾害现场勘查。
+1. Environmental protection: Efficient sewage-outlet patrol and automatic monitoring.  
+2. Security: Routine detection of blocked fire exits to remove hazards.  
+3. Energy: Regular PV hot-spot checks to protect revenue.  
+4. Emergency: Rapid flood and disaster site assessment.
 
-#### 两大核心
+#### Two Core Strengths
 
-1、自动巡检：无需飞手。一键设定光伏电站巡检或电网巡查等航线，无人机就能定时、自动完成作业，24小时待命。
+1. Automated inspection: No pilot needed. With one click, set routes for PV plant or grid inspections; UAVs execute on schedule, on standby 24/7.  
         
-2、AI识别：比人眼更准。自动识别河道排污、森林火点、工地安全违章等问题，并立刻告警，形成处理闭环，支持人车跟踪识别，远距离变焦处理等。
+2. AI detection: More accurate than the human eye. Automatically identifies river pollution, forest fire points, construction safety violations, and more, then alerts immediately to close the loop,supports human-vehicle tracking and recognition, long-distance zoom processing, etc.
         
-#### 四点价值
+#### Four Key Values
 
-✅ 效率飙升：比人工巡检快5倍以上，成本大降。
+✅ Efficiency boost: 5× faster than manual inspection with sharply lower costs.  
 
-✅ 安全省心：彻底避免人员进入高危区域的风险。
+✅ Safe and worry-free: Keeps people out of hazardous areas.  
 
-✅ 精准可靠：AI7×24小时不知疲倦，识别率超98%。
+✅ Accurate and reliable: AI works 24/7 with over 98% recognition accuracy.  
 
-✅ 一机多用：换条航线就是新场景，投资回报率高。
+✅ Multi-purpose: A new route means a new scenario—high ROI.
 
 
-解决方案
+Solutions
 -----------------------------------
 
-在城市，可帮助无人机避开航班、拍路况、助疏导；应急时，快速调度无人机协同救援；在农村，优化物流航线，解决配送最后一公里难题。解决传统人工巡检在电力、河道、林场等场景中，长期受困于 “效率低、风险高、数据散”—— 高压线路需登塔作业，山区林区存在巡护盲区，管道泄漏排查等。
+In cities, it helps UAVs avoid air traffic, capture traffic conditions, and assist with guidance. In emergencies, it dispatches UAVs rapidly for coordinated rescue. In rural areas, it optimizes logistics routes to solve the last-mile delivery challenge. It addresses the long-standing pain points of manual inspection in power, rivers, and forestry—low efficiency, high risk, scattered data—such as tower climbs for high-voltage lines, blind spots in mountainous forests, and pipeline leak checks.
 
-- 无人机巡检系统之智能道路巡检：  [无人机巡检系统之智能道路巡检](https://blog.csdn.net/xiaoyuner1349/article/details/156274306?spm=1001.2014.3001.5501) 
+- Intelligent road inspection with the UAV inspection system: [无人机巡检系统之智能道路巡检](https://blog.csdn.net/xiaoyuner1349/article/details/156274306?spm=1001.2014.3001.5501) 
 
-系统功能清单：
+System Function List: 
 
-[无人机飞控平台功能清单.pdf](1、无人机飞控平台功能清单.pdf)
+[UAV Flight Control Platform Function List.pdf](1.UAV%20Flight%20Control%20Platform%20Feature%20List.pdf) 
 
-[视频AI算法平台功能清单.pdf](2、视频AI算法平台功能清单.pdf)
+[Video AI Algorithm Platform Function List.pdf]("2.Video%20AI%20Algorithm%20Platform%20Feature%20List.pdf") 
 
-[算法模型赠送清单.pdf](3、算法模型赠送清单.pdf)
+[Algorithm Model Gift list.pdf](3.Algorithm%20Models%20List.pdf)
 
-技术架构：
+Technical Architecture
 -----------------------------------
 
-#### 智慧巡查平台&飞控中心
+#### Smart Inspection Platform & Flight Control Center
 
-- 后端源码(SpringBoot2.7.2 + Mysql8)
-- Web端源码(Vue3+ElementUI)
-- 小程序端源码(Uniapp)
+- Backend source code (SpringBoot 2.7.2 + MySQL 8)
+- Web source code (Vue3 + ElementUI)
+- Mini-program source code (Uniapp)
 
-#### 视频AI算法平台
+#### Video AI Algorithm Platform
 
-- 后端源码(SpringBoot2.7.2 + Mysql8)
-- Web端源码(Vue3+ElementUI)
+- Backend source code (SpringBoot 2.7.2 + MySQL 8)
+- Web source code (Vue3 + ElementUI)
 
-### 系统界面（部分）
+### System UI (partial)
 
-飞控平台
-![飞控平台](images/飞控平台.png "飞控平台")
+Flight-control platform  
+![Flight-control platform](images/飞控平台.png "飞控平台")
 
-自动化巡任务检配置
-![自动化巡任务检配置](images/自动化巡任务检配置.png "自动化巡任务检配置")
+Automated inspection task configuration  
+![Automated inspection task configuration](images/自动化巡任务检配置.png "自动化巡任务检配置")
 
-飞行实时视频
-![飞行实时视频](images/飞控平台.png "飞行实时视频")
+Live flight video  
+![Live flight video](images/飞控平台.png "飞控平台")
 
-多项目场景管理
-![多项目场景管理](images/多项目场景管理.png "多项目场景管理")
+Multi-project scene management  
+![Multi-project scene management](images/多项目场景管理.png "多项目场景管理")
 
-航点行为配置
-![航点行为配置](images/航点行为配置.png "航点行为配置")
+Waypoint behavior configuration  
+![Waypoint behavior configuration](images/航点行为配置.png "航点行为配置")
 
-设置禁飞区
-![设置禁飞区](images/设置禁飞区.png "设置禁飞区")
+No-fly zone setup  
+![No-fly zone setup](images/设置禁飞区.png "设置禁飞区")
 
-视频算法标注处理与预警
-![视频算法标注处理与预警](images/视频算法标注处理与预警.png "视频算法标注处理与预警")
+Video algorithm labeling and alerts  
+![Video algorithm labeling and alerts](images/视频算法标注处理与预警.png "视频算法标注处理与预警")
 
-算法模型配置
-![算法模型配置](images/算法模型配置.png "算法模型配置")
+Algorithm model configuration  
+![Algorithm model configuration](images/算法模型配置.png "算法模型配置")
 
-无人机参数调试
-![无人机参数调试](images/无人机参数调试.png "无人机参数调试")
+UAV parameter tuning  
+![UAV parameter tuning](images/无人机参数调试.png "无人机参数调试")
 
-图片算法比对与预警
-![图片算法比对与预警](images/图片算法比对与预警.png "图片算法比对与预警")
+Image algorithm comparison and alerts  
+![Image algorithm comparison and alerts](images/图片算法比对与预警.png "图片算法比对与预警")
 
-机场管理
-![机场管理](images/机场管理.png "机场管理")
+Airport management  
+![Airport management](images/机场管理.png "机场管理")
 
-### 联系我们
+### Contact Us
 
-需要咨询业务合作或商业版代码，可扫码联系：VX：xiaoyuner1349
+##### Email: 
+xingyue131@2925.com
+
+##### Wechat:
+For business cooperation or commercial code, scan to connect on WeChat:
 
 ![](images/wechat.jpg)
+
