@@ -2,3 +2,5 @@
 At present, only some of the documentation materials are open-sourced, and the source code level is commercially open.
 
 For system information or environment demonstrations, please contact wechat: xiaoyuner1349
+
+email: xingyue131@2925.com
